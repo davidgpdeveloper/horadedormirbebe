@@ -1,9 +1,12 @@
 <html>
 <body>
+<a href="#castellano">CASTELLANO</a>
+<br><a href="#catala">CATALÀ</a>
+<br><a href="#english">ENGLISH</a>
+ 
+
  <hr/>
- CASTELLANO
- <hr/>
- <h1>Hora de dormir, bebé</h1>
+ <h1 id="castellano">Hora de dormir, bebé</h1>
  
 <img src="https://raw.githubusercontent.com/davidgpdeveloper/horadedormirbebe/main/LogoBabyIconsOrinal.png" alt="Hora de dormir, bebé" width="200" height="200">
     
@@ -20,9 +23,7 @@
 <p>Si tiene alguna pregunta o sugerencia sobre mi política de privacidad o mi aplicación, no dude en ponerse en contacto conmigo en: <a href="horadedormirbebe@gmail.com">horadedormirbebe@gmail.com</a> </p>
  
 <hr/>
-CATALÀ
-<hr/>
-<h1>Hora de dormir, nadó</h1>
+<h1 id="catala">Hora de dormir, nadó</h1>
  
 <img src="https://raw.githubusercontent.com/davidgpdeveloper/horadedormirbebe/main/LogoBabyIconsOrinal.png" alt="Hora de dormir, bebé" width="200" height="200">
     
@@ -37,12 +38,9 @@ CATALÀ
 
 <p><strong>Contacte</strong></p>
 <p>Si té alguna pregunta o suggeriment sobre la meva política de privacitat o la meva aplicació, no dubti a posar-se en contacte amb mi en:  <a href="horadedormirbebe@gmail.com">horadedormirbebe@gmail.com</a> </p>
- 
-<hr/>
-ENGLISH
-<hr/>
- 
-<h1>Time to sleep, baby</h1>
+
+<hr/> 
+<h1 id="english">Time to sleep, baby</h1>
  
 <img src="https://raw.githubusercontent.com/davidgpdeveloper/horadedormirbebe/main/LogoBabyIconsOrinal.png" alt="Hora de dormir, bebé" width="200" height="200">
     
