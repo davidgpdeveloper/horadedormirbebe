@@ -20,6 +20,25 @@
 <p>Si tiene alguna pregunta o sugerencia sobre mi política de privacidad o mi aplicación, no dude en ponerse en contacto conmigo en: <a href="horadedormirbebe@gmail.com">horadedormirbebe@gmail.com</a> </p>
  
 <hr/>
+CATALÀ
+<hr/>
+<h1>Hora de dormir, nadó</h1>
+ 
+<img src="https://raw.githubusercontent.com/davidgpdeveloper/horadedormirbebe/main/LogoBabyIconsOrinal.png" alt="Hora de dormir, bebé" width="200" height="200">
+    
+<h2>Política de privacitat</h2>
+<p>David Galán Pérez va construir l'aplicació "Hora de dormir, nadó" com una aplicació gratuïta.</p>
+
+<p><strong>Recollida i ús d'informació</strong></p>
+<p>L'aplicació no recull cap informació i no utilitza serveis de tercers.</p>
+
+<p><strong>Canvis en aquesta política de privacitat</strong></p>
+<p>És possible que s'actualitzi la política de privacitat de tant en tant. Per tant, s'aconsella revisar aquesta pàgina periòdicament per a veure si hi ha canvis. Aquests canvis entren en vigor immediatament després de la seva publicació en aquesta pàgina.</p>
+
+<p><strong>Contacte</strong></p>
+<p>Si té alguna pregunta o suggeriment sobre la meva política de privacitat o la meva aplicació, no dubti a posar-se en contacte amb mi en:  <a href="horadedormirbebe@gmail.com">horadedormirbebe@gmail.com</a> </p>
+ 
+<hr/>
 ENGLISH
 <hr/>
  
