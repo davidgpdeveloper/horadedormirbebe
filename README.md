@@ -1,6 +1,8 @@
 <html>
 <body>
- 
+ <hr/>
+ CASTELLANO
+ <hr/>
  <h1>Hora de dormir, bebé</h1>
  
 <img src="https://raw.githubusercontent.com/davidgpdeveloper/horadedormirbebe/main/LogoBabyIconsOrinal.png" alt="Hora de dormir, bebé" width="200" height="200">
@@ -17,7 +19,9 @@
 <p><strong>Contacto</strong></p>
 <p>Si tiene alguna pregunta o sugerencia sobre mi política de privacidad o mi aplicación, no dude en ponerse en contacto conmigo en: <a href="horadedormirbebe@gmail.com">horadedormirbebe@gmail.com</a> </p>
  
-<p></p>
+<hr/>
+ENGLISH
+<hr/>
  
 <h1>Time to sleep, baby</h1>
  
