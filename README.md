@@ -2,7 +2,7 @@
 <body>
 <h1>Hora de dormir, bebé</h1>
  
-<p><img src="https://raw.githubusercontent.com/davidgpdeveloper/horadedormirbebe/main/LogoBabyIconsOrinal.png" alt="Hora de dormir, bebé" width="200" height="200"></p>
+<img src="https://raw.githubusercontent.com/davidgpdeveloper/horadedormirbebe/main/LogoBabyIconsOrinal.png" alt="Hora de dormir, bebé" width="200" height="200">
     
 <h2>Privacy Policy</h2>
 <p>David Galán Pérez built the "Hora de dormir, bebé" app as a free app.</p>
